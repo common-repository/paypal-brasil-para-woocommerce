@@ -1,0 +1,29 @@
+/*!******************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/notice/banner-notice.scss ***!
+  \******************************************************************************************************************************************************************/
+.paypal-brasil-gateway-notice .container {
+  display: flex;
+  align-items: center;
+  height: 37px; }
+
+.icon {
+  width: 21px;
+  height: 39px;
+  margin-right: 8px; }
+
+.paypal-brasil-gateway-notice {
+  font-family: Arial, sans-serif;
+  padding: 10px 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); }
+
+.paypal-brasil-gateway-notice h2 {
+  font-size: 24px;
+  margin: 0; }
+
+.paypal-brasil-gateway-notice p {
+  font-size: 15px;
+  margin: 10px 0; }
+
+
+/*# sourceMappingURL=banner-notice.css.map*/

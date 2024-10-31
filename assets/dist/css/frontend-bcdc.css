@@ -1,0 +1,78 @@
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/frontend/frontend-bcdc/frontend-bcdc.scss ***!
+  \**********************************************************************************************************************************************************************************/
+div.payment_method_paypal-brasil-bcdc-gateway {
+  padding: 0 !important; }
+
+#wc-bcdc-brasil-banner-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 200px;
+  justify-content: center; }
+
+#wc-bcdc-brasil-banner {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: stretch;
+  width: 93%; }
+
+span#pay-with-text {
+  /* Pay with */
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 18px;
+  /* or 100% */
+  text-align: center;
+  letter-spacing: -0.01em;
+  margin-bottom: 6px;
+  color: #000000; }
+
+span#pay-on-click-text {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* or 150% */
+  text-align: center;
+  letter-spacing: -0.01em;
+  margin-bottom: 10px;
+  color: #000000; }
+
+div#card-brands-value {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: stretch;
+  width: 100%; }
+
+div#card-brands-value img {
+  width: 131px;
+  height: 18px; }
+
+span#bcdc-value-cart {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  /* or 150% */
+  letter-spacing: -0.01em;
+  color: #2C2E2F; }
+
+#line {
+  width: 100%;
+  /* largura da linha */
+  border: 1px solid #DCE1E5;
+  margin-bottom: 10px; }
+
+
+/*# sourceMappingURL=frontend-bcdc.css.map*/
